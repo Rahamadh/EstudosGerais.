@@ -49,4 +49,5 @@ Para rodar os exemplos deste repositório:
 1. Certifique-se de ter o [SDK do .NET](https://dotnet.microsoft.com/) instalado.
 2. Clone o repositório:
    ```bash
-   git clone [https://github.com/Rahamadh/EstudosGeraisCSharp.git](https://github.com/Rahamadh/EstudosGeraisCSharp.git)
+   git clone [https://github.com/Rahamadh/EstudosGeraisCSharp.git](https://github.com/Rahamadh/EstudosGerais.git)
+
