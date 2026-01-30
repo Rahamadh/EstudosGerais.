@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Banco De Dados/1.0.0": {
+        "runtime": {
+          "Banco De Dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banco De Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

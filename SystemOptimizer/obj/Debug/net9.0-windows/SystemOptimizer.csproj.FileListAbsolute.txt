@@ -1,0 +1,14 @@
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\obj\Debug\net9.0-windows\SystemOptimizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\obj\Debug\net9.0-windows\SystemOptimizer.AssemblyInfoInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\obj\Debug\net9.0-windows\SystemOptimizer.AssemblyInfo.cs
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\obj\Debug\net9.0-windows\SystemOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\bin\Debug\net9.0-windows\SystemOptimizer.exe
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\bin\Debug\net9.0-windows\SystemOptimizer.deps.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\bin\Debug\net9.0-windows\SystemOptimizer.runtimeconfig.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\bin\Debug\net9.0-windows\SystemOptimizer.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\bin\Debug\net9.0-windows\SystemOptimizer.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\obj\Debug\net9.0-windows\SystemOptimizer.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\obj\Debug\net9.0-windows\refint\SystemOptimizer.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\obj\Debug\net9.0-windows\SystemOptimizer.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\obj\Debug\net9.0-windows\SystemOptimizer.genruntimeconfig.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\SystemOptimizer\obj\Debug\net9.0-windows\ref\SystemOptimizer.dll

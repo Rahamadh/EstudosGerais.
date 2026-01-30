@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estudos De funções - Métodos", "Estudos De funções - Métodos.csproj", "{EC66BCAF-B32E-FE2E-BE36-EB9200C10168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC66BCAF-B32E-FE2E-BE36-EB9200C10168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC66BCAF-B32E-FE2E-BE36-EB9200C10168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC66BCAF-B32E-FE2E-BE36-EB9200C10168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC66BCAF-B32E-FE2E-BE36-EB9200C10168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CE01177-B461-4E6A-8F4E-A6E56FAE2DF2}
+	EndGlobalSection
+EndGlobal

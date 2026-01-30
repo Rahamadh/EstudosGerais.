@@ -1,0 +1,14 @@
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\bin\Debug\net9.0\Banco De Dados.exe
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\bin\Debug\net9.0\Banco De Dados.deps.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\bin\Debug\net9.0\Banco De Dados.runtimeconfig.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\bin\Debug\net9.0\Banco De Dados.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\bin\Debug\net9.0\Banco De Dados.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\obj\Debug\net9.0\Banco De Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\obj\Debug\net9.0\Banco De Dados.AssemblyInfoInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\obj\Debug\net9.0\Banco De Dados.AssemblyInfo.cs
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\obj\Debug\net9.0\Banco De Dados.csproj.CoreCompileInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\obj\Debug\net9.0\Banco De Dados.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\obj\Debug\net9.0\refint\Banco De Dados.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\obj\Debug\net9.0\Banco De Dados.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\obj\Debug\net9.0\Banco De Dados.genruntimeconfig.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Banco De Dados\obj\Debug\net9.0\ref\Banco De Dados.dll

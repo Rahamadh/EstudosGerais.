@@ -1,0 +1,14 @@
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\bin\Debug\net9.0\ExerciciosDeArray.exe
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\bin\Debug\net9.0\ExerciciosDeArray.deps.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\bin\Debug\net9.0\ExerciciosDeArray.runtimeconfig.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\bin\Debug\net9.0\ExerciciosDeArray.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\bin\Debug\net9.0\ExerciciosDeArray.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\obj\Debug\net9.0\ExerciciosDeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\obj\Debug\net9.0\ExerciciosDeArray.AssemblyInfoInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\obj\Debug\net9.0\ExerciciosDeArray.AssemblyInfo.cs
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\obj\Debug\net9.0\ExerciciosDeArray.csproj.CoreCompileInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\obj\Debug\net9.0\ExerciciosDeArray.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\obj\Debug\net9.0\refint\ExerciciosDeArray.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\obj\Debug\net9.0\ExerciciosDeArray.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\obj\Debug\net9.0\ExerciciosDeArray.genruntimeconfig.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\ExerciciosDeArray\obj\Debug\net9.0\ref\ExerciciosDeArray.dll

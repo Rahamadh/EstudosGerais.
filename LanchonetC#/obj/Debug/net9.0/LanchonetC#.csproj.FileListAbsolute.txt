@@ -1,0 +1,14 @@
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\obj\Debug\net9.0\LanchonetC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\obj\Debug\net9.0\LanchonetC#.AssemblyInfoInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\obj\Debug\net9.0\LanchonetC#.AssemblyInfo.cs
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\obj\Debug\net9.0\LanchonetC#.csproj.CoreCompileInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\bin\Debug\net9.0\LanchonetC#.exe
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\bin\Debug\net9.0\LanchonetC#.deps.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\bin\Debug\net9.0\LanchonetC#.runtimeconfig.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\bin\Debug\net9.0\LanchonetC#.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\bin\Debug\net9.0\LanchonetC#.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\obj\Debug\net9.0\LanchonetC#.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\obj\Debug\net9.0\refint\LanchonetC#.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\obj\Debug\net9.0\LanchonetC#.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\obj\Debug\net9.0\LanchonetC#.genruntimeconfig.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\LanchonetC#\obj\Debug\net9.0\ref\LanchonetC#.dll

@@ -1,0 +1,14 @@
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\bin\Debug\net9.0\Estudos De funções - Métodos.exe
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\bin\Debug\net9.0\Estudos De funções - Métodos.deps.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\bin\Debug\net9.0\Estudos De funções - Métodos.runtimeconfig.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\bin\Debug\net9.0\Estudos De funções - Métodos.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\bin\Debug\net9.0\Estudos De funções - Métodos.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\obj\Debug\net9.0\Estudos De funções - Métodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\obj\Debug\net9.0\Estudos De funções - Métodos.AssemblyInfoInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\obj\Debug\net9.0\Estudos De funções - Métodos.AssemblyInfo.cs
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\obj\Debug\net9.0\Estudos De funções - Métodos.csproj.CoreCompileInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\obj\Debug\net9.0\Estudos De funções - Métodos.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\obj\Debug\net9.0\refint\Estudos De funções - Métodos.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\obj\Debug\net9.0\Estudos De funções - Métodos.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\obj\Debug\net9.0\Estudos De funções - Métodos.genruntimeconfig.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Estudos De funções - Métodos\obj\Debug\net9.0\ref\Estudos De funções - Métodos.dll

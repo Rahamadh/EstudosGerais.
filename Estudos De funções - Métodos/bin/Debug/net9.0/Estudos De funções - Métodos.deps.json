@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Estudos De funções - Métodos/1.0.0": {
+        "runtime": {
+          "Estudos De funções - Métodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estudos De funções - Métodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

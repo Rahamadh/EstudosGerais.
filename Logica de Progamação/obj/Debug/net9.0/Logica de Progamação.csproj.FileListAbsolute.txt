@@ -1,0 +1,14 @@
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\bin\Debug\net9.0\Logica de Progamação.exe
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\bin\Debug\net9.0\Logica de Progamação.deps.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\bin\Debug\net9.0\Logica de Progamação.runtimeconfig.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\bin\Debug\net9.0\Logica de Progamação.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\bin\Debug\net9.0\Logica de Progamação.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\obj\Debug\net9.0\Logica de Progamação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\obj\Debug\net9.0\Logica de Progamação.AssemblyInfoInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\obj\Debug\net9.0\Logica de Progamação.AssemblyInfo.cs
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\obj\Debug\net9.0\Logica de Progamação.csproj.CoreCompileInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\obj\Debug\net9.0\Logica de Progamação.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\obj\Debug\net9.0\refint\Logica de Progamação.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\obj\Debug\net9.0\Logica de Progamação.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\obj\Debug\net9.0\Logica de Progamação.genruntimeconfig.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Logica de Progamação\obj\Debug\net9.0\ref\Logica de Progamação.dll

@@ -1,0 +1,14 @@
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\bin\Debug\net9.0\projeto1.exe
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\bin\Debug\net9.0\projeto1.deps.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\bin\Debug\net9.0\projeto1.runtimeconfig.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\bin\Debug\net9.0\projeto1.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\bin\Debug\net9.0\projeto1.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\obj\Debug\net9.0\projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\obj\Debug\net9.0\projeto1.AssemblyInfoInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\obj\Debug\net9.0\projeto1.AssemblyInfo.cs
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\obj\Debug\net9.0\projeto1.csproj.CoreCompileInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\obj\Debug\net9.0\projeto1.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\obj\Debug\net9.0\refint\projeto1.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\obj\Debug\net9.0\projeto1.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\obj\Debug\net9.0\projeto1.genruntimeconfig.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\projeto1\obj\Debug\net9.0\ref\projeto1.dll

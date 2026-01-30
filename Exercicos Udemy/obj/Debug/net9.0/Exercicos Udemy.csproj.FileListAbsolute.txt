@@ -1,0 +1,14 @@
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\bin\Debug\net9.0\Exercicos Udemy.exe
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\bin\Debug\net9.0\Exercicos Udemy.deps.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\bin\Debug\net9.0\Exercicos Udemy.runtimeconfig.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\bin\Debug\net9.0\Exercicos Udemy.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\bin\Debug\net9.0\Exercicos Udemy.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\obj\Debug\net9.0\Exercicos Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\obj\Debug\net9.0\Exercicos Udemy.AssemblyInfoInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\obj\Debug\net9.0\Exercicos Udemy.AssemblyInfo.cs
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\obj\Debug\net9.0\Exercicos Udemy.csproj.CoreCompileInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\obj\Debug\net9.0\Exercicos Udemy.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\obj\Debug\net9.0\refint\Exercicos Udemy.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\obj\Debug\net9.0\Exercicos Udemy.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\obj\Debug\net9.0\Exercicos Udemy.genruntimeconfig.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Exercicos Udemy\obj\Debug\net9.0\ref\Exercicos Udemy.dll

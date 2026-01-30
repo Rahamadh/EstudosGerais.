@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanchonetC#", "LanchonetC#.csproj", "{F312F50D-0D1C-240F-58C1-FC31DACD462C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F312F50D-0D1C-240F-58C1-FC31DACD462C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F312F50D-0D1C-240F-58C1-FC31DACD462C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F312F50D-0D1C-240F-58C1-FC31DACD462C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F312F50D-0D1C-240F-58C1-FC31DACD462C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AD12713-52C7-4942-BDD4-89AEF7250B74}
+	EndGlobalSection
+EndGlobal
